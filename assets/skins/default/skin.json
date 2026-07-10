@@ -1,0 +1,22 @@
+{
+    "name": "Default Bongo Cat",
+    "author": "BongoSteam Team",
+    "version": "1.0",
+    "poses": {
+        "idle": {
+            "file": "cat-idle.png",
+            "width": 200,
+            "height": 200
+        },
+        "left": {
+            "file": "cat-left.png",
+            "width": 200,
+            "height": 200
+        },
+        "right": {
+            "file": "cat-right.png",
+            "width": 200,
+            "height": 200
+        }
+    }
+}

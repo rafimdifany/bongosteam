@@ -1,0 +1,195 @@
+{
+  "schema_version": 2,
+  "active_work_id": "bongo-steam-01de96e4",
+  "works": {
+    "bongo-steam-01de96e4": {
+      "work_id": "bongo-steam-01de96e4",
+      "active_plan": "/Users/rafimdifany/Documents/project/bongo-steam/.omo/plans/bongo-steam.md",
+      "plan_name": "bongo-steam",
+      "status": "completed",
+      "started_at": "2026-07-10T14:41:55.287Z",
+      "updated_at": "2026-07-10T16:08:14.752Z",
+      "session_ids": [
+        "opencode:ses_0b3af73c1ffekIJ0yoKNFiu40h"
+      ],
+      "session_origins": {
+        "opencode:ses_0b3af73c1ffekIJ0yoKNFiu40h": "direct"
+      },
+      "agent": "atlas",
+      "task_sessions": {
+        "todo:1": {
+          "task_key": "todo:1",
+          "task_label": "1",
+          "task_title": "Project skeleton + dependencies + config module",
+          "session_id": "opencode:ses_0b383897bffevrKdlKSgZVhtgc",
+          "agent": "Sisyphus-Junior",
+          "category": "unspecified-high",
+          "updated_at": "2026-07-10T14:56:29.236Z",
+          "started_at": "2026-07-10T14:48:32.408Z",
+          "status": "completed",
+          "ended_at": "2026-07-10T14:56:29.236Z",
+          "elapsed_ms": 476828
+        },
+        "todo:3": {
+          "task_key": "todo:3",
+          "task_label": "3",
+          "task_title": "Avatar renderer — Qt overlay window + bongocat poses + idle animation",
+          "session_id": "opencode:ses_0b3722167ffeNFVn5MtDT9fpEr",
+          "agent": "Sisyphus-Junior",
+          "category": "unspecified-high",
+          "started_at": "2026-07-10T14:57:19.654Z",
+          "status": "completed",
+          "updated_at": "2026-07-10T15:14:15.098Z",
+          "ended_at": "2026-07-10T15:14:15.098Z",
+          "elapsed_ms": 1015444
+        },
+        "todo:5": {
+          "task_key": "todo:5",
+          "task_label": "5",
+          "task_title": "Controller visual — overlay image + button highlight + mode toggle UI",
+          "session_id": "opencode:ses_0b3676926ffe9942YxK2mNLKo5",
+          "agent": "Sisyphus-Junior",
+          "category": "unspecified-high",
+          "updated_at": "2026-07-10T15:25:05.119Z",
+          "started_at": "2026-07-10T15:23:49.012Z",
+          "status": "completed",
+          "ended_at": "2026-07-10T15:25:05.119Z",
+          "elapsed_ms": 76107
+        },
+        "todo:7": {
+          "task_key": "todo:7",
+          "task_label": "7",
+          "task_title": "Integration — wire all components + main.py + assets + config persistence",
+          "session_id": "opencode:ses_0b35c66ccffeLMqEZDEhiTE5y0",
+          "agent": "Sisyphus-Junior",
+          "category": "unspecified-high",
+          "updated_at": "2026-07-10T15:35:56.882Z",
+          "started_at": "2026-07-10T15:34:57.626Z",
+          "status": "completed",
+          "ended_at": "2026-07-10T15:35:56.882Z",
+          "elapsed_ms": 59256
+        },
+        "todo:8": {
+          "task_key": "todo:8",
+          "task_label": "8",
+          "task_title": "Build — PyInstaller Windows EXE + smoke test",
+          "session_id": "opencode:ses_0b351f058ffemFJYOi16nYu2g3",
+          "agent": "Sisyphus-Junior",
+          "category": "unspecified-low",
+          "started_at": "2026-07-10T15:37:19.535Z",
+          "status": "completed",
+          "updated_at": "2026-07-10T15:43:27.700Z",
+          "ended_at": "2026-07-10T15:43:27.700Z",
+          "elapsed_ms": 368165
+        },
+        "final-wave:f1": {
+          "task_key": "final-wave:f1",
+          "task_label": "F1",
+          "task_title": "Plan compliance audit — verify every todo completed, every acceptance criteria met, no scope creep",
+          "session_id": "opencode:ses_0b33abbe8ffe1ASVq3ruv5nwp3",
+          "agent": "oracle",
+          "started_at": "2026-07-10T15:46:22.884Z",
+          "status": "completed",
+          "updated_at": "2026-07-10T16:06:44.795Z",
+          "ended_at": "2026-07-10T16:06:44.795Z",
+          "elapsed_ms": 1221911
+        }
+      },
+      "ended_at": "2026-07-10T16:08:14.752Z",
+      "elapsed_ms": 5179465
+    }
+  },
+  "active_plan": "/Users/rafimdifany/Documents/project/bongo-steam/.omo/plans/bongo-steam.md",
+  "started_at": "2026-07-10T14:41:55.287Z",
+  "status": "completed",
+  "updated_at": "2026-07-10T16:08:14.752Z",
+  "session_ids": [
+    "opencode:ses_0b3af73c1ffekIJ0yoKNFiu40h"
+  ],
+  "session_origins": {
+    "opencode:ses_0b3af73c1ffekIJ0yoKNFiu40h": "direct"
+  },
+  "plan_name": "bongo-steam",
+  "task_sessions": {
+    "todo:1": {
+      "task_key": "todo:1",
+      "task_label": "1",
+      "task_title": "Project skeleton + dependencies + config module",
+      "session_id": "opencode:ses_0b383897bffevrKdlKSgZVhtgc",
+      "agent": "Sisyphus-Junior",
+      "category": "unspecified-high",
+      "updated_at": "2026-07-10T14:56:29.236Z",
+      "started_at": "2026-07-10T14:48:32.408Z",
+      "status": "completed",
+      "ended_at": "2026-07-10T14:56:29.236Z",
+      "elapsed_ms": 476828
+    },
+    "todo:3": {
+      "task_key": "todo:3",
+      "task_label": "3",
+      "task_title": "Avatar renderer — Qt overlay window + bongocat poses + idle animation",
+      "session_id": "opencode:ses_0b3722167ffeNFVn5MtDT9fpEr",
+      "agent": "Sisyphus-Junior",
+      "category": "unspecified-high",
+      "started_at": "2026-07-10T14:57:19.654Z",
+      "status": "completed",
+      "updated_at": "2026-07-10T15:14:15.098Z",
+      "ended_at": "2026-07-10T15:14:15.098Z",
+      "elapsed_ms": 1015444
+    },
+    "todo:5": {
+      "task_key": "todo:5",
+      "task_label": "5",
+      "task_title": "Controller visual — overlay image + button highlight + mode toggle UI",
+      "session_id": "opencode:ses_0b3676926ffe9942YxK2mNLKo5",
+      "agent": "Sisyphus-Junior",
+      "category": "unspecified-high",
+      "updated_at": "2026-07-10T15:25:05.119Z",
+      "started_at": "2026-07-10T15:23:49.012Z",
+      "status": "completed",
+      "ended_at": "2026-07-10T15:25:05.119Z",
+      "elapsed_ms": 76107
+    },
+    "todo:7": {
+      "task_key": "todo:7",
+      "task_label": "7",
+      "task_title": "Integration — wire all components + main.py + assets + config persistence",
+      "session_id": "opencode:ses_0b35c66ccffeLMqEZDEhiTE5y0",
+      "agent": "Sisyphus-Junior",
+      "category": "unspecified-high",
+      "updated_at": "2026-07-10T15:35:56.882Z",
+      "started_at": "2026-07-10T15:34:57.626Z",
+      "status": "completed",
+      "ended_at": "2026-07-10T15:35:56.882Z",
+      "elapsed_ms": 59256
+    },
+    "todo:8": {
+      "task_key": "todo:8",
+      "task_label": "8",
+      "task_title": "Build — PyInstaller Windows EXE + smoke test",
+      "session_id": "opencode:ses_0b351f058ffemFJYOi16nYu2g3",
+      "agent": "Sisyphus-Junior",
+      "category": "unspecified-low",
+      "started_at": "2026-07-10T15:37:19.535Z",
+      "status": "completed",
+      "updated_at": "2026-07-10T15:43:27.700Z",
+      "ended_at": "2026-07-10T15:43:27.700Z",
+      "elapsed_ms": 368165
+    },
+    "final-wave:f1": {
+      "task_key": "final-wave:f1",
+      "task_label": "F1",
+      "task_title": "Plan compliance audit — verify every todo completed, every acceptance criteria met, no scope creep",
+      "session_id": "opencode:ses_0b33abbe8ffe1ASVq3ruv5nwp3",
+      "agent": "oracle",
+      "started_at": "2026-07-10T15:46:22.884Z",
+      "status": "completed",
+      "updated_at": "2026-07-10T16:06:44.795Z",
+      "ended_at": "2026-07-10T16:06:44.795Z",
+      "elapsed_ms": 1221911
+    }
+  },
+  "agent": "atlas",
+  "ended_at": "2026-07-10T16:08:14.752Z",
+  "elapsed_ms": 5179465
+}

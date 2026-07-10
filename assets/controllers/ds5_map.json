@@ -1,0 +1,193 @@
+{
+  "image": "ds5.png",
+  "buttons": {
+    "0": {
+      "label": "Cross",
+      "x": 0.63,
+      "y": 0.72,
+      "w": 0.08,
+      "h": 0.08,
+      "color": "#00BFFF"
+    },
+    "1": {
+      "label": "Circle",
+      "x": 0.73,
+      "y": 0.65,
+      "w": 0.08,
+      "h": 0.08,
+      "color": "#FF6B6B"
+    },
+    "2": {
+      "label": "Square",
+      "x": 0.53,
+      "y": 0.65,
+      "w": 0.08,
+      "h": 0.08,
+      "color": "#DDA0DD"
+    },
+    "3": {
+      "label": "Triangle",
+      "x": 0.63,
+      "y": 0.58,
+      "w": 0.08,
+      "h": 0.08,
+      "color": "#98FB98"
+    },
+    "4": {
+      "label": "L1",
+      "x": 0.15,
+      "y": 0.15,
+      "w": 0.12,
+      "h": 0.06,
+      "color": "#FFA500"
+    },
+    "5": {
+      "label": "R1",
+      "x": 0.73,
+      "y": 0.15,
+      "w": 0.12,
+      "h": 0.06,
+      "color": "#FFA500"
+    },
+    "6": {
+      "label": "Create",
+      "x": 0.36,
+      "y": 0.40,
+      "w": 0.08,
+      "h": 0.05,
+      "color": "#FFFFFF"
+    },
+    "7": {
+      "label": "Options",
+      "x": 0.56,
+      "y": 0.40,
+      "w": 0.08,
+      "h": 0.05,
+      "color": "#FFFFFF"
+    },
+    "8": {
+      "label": "L3",
+      "x": 0.25,
+      "y": 0.52,
+      "w": 0.10,
+      "h": 0.10,
+      "color": "#808080"
+    },
+    "9": {
+      "label": "R3",
+      "x": 0.65,
+      "y": 0.52,
+      "w": 0.10,
+      "h": 0.10,
+      "color": "#808080"
+    },
+    "10": {
+      "label": "PS Button",
+      "x": 0.46,
+      "y": 0.50,
+      "w": 0.08,
+      "h": 0.06,
+      "color": "#00BFFF"
+    },
+    "11": {
+      "label": "Touchpad",
+      "x": 0.35,
+      "y": 0.28,
+      "w": 0.30,
+      "h": 0.08,
+      "color": "#4169E1"
+    }
+  },
+  "axes": {
+    "0": {
+      "label": "Left Stick X",
+      "highlight": "both",
+      "x": 0.22,
+      "y": 0.49,
+      "w": 0.16,
+      "h": 0.16,
+      "color": "#00BFFF"
+    },
+    "1": {
+      "label": "Left Stick Y",
+      "highlight": "both",
+      "x": 0.22,
+      "y": 0.49,
+      "w": 0.16,
+      "h": 0.16,
+      "color": "#00BFFF"
+    },
+    "2": {
+      "label": "L2",
+      "highlight": "positive",
+      "x": 0.15,
+      "y": 0.08,
+      "w": 0.12,
+      "h": 0.05,
+      "color": "#FF69B4"
+    },
+    "3": {
+      "label": "Right Stick X",
+      "highlight": "both",
+      "x": 0.62,
+      "y": 0.49,
+      "w": 0.16,
+      "h": 0.16,
+      "color": "#00BFFF"
+    },
+    "4": {
+      "label": "Right Stick Y",
+      "highlight": "both",
+      "x": 0.62,
+      "y": 0.49,
+      "w": 0.16,
+      "h": 0.16,
+      "color": "#00BFFF"
+    },
+    "5": {
+      "label": "R2",
+      "highlight": "positive",
+      "x": 0.73,
+      "y": 0.08,
+      "w": 0.12,
+      "h": 0.05,
+      "color": "#FF69B4"
+    }
+  },
+  "hats": {
+    "0": {
+      "up": {
+        "label": "D-Pad Up",
+        "x": 0.33,
+        "y": 0.65,
+        "w": 0.08,
+        "h": 0.08,
+        "color": "#FFD700"
+      },
+      "down": {
+        "label": "D-Pad Down",
+        "x": 0.33,
+        "y": 0.80,
+        "w": 0.08,
+        "h": 0.08,
+        "color": "#FFD700"
+      },
+      "left": {
+        "label": "D-Pad Left",
+        "x": 0.26,
+        "y": 0.72,
+        "w": 0.08,
+        "h": 0.08,
+        "color": "#FFD700"
+      },
+      "right": {
+        "label": "D-Pad Right",
+        "x": 0.41,
+        "y": 0.72,
+        "w": 0.08,
+        "h": 0.08,
+        "color": "#FFD700"
+      }
+    }
+  }
+}
