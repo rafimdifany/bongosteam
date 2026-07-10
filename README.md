@@ -7,7 +7,7 @@
 
 <p align="center">
   <strong>Windows Desktop Livestream Avatar Overlay</strong><br>
-  Bongocat reacts to your keyboard, mouse, and controller — perfect for OBS streams.
+  Bongocat reacts to your keyboard, mouse, and controller - perfect for OBS streams.
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## 🎮 What is BongoSteam?
 
-BongoSteam is a **frameless, always-on-top avatar overlay** for Windows livestreams. Your bongocat avatar sits in the corner of your screen and reacts to every input — keyboard taps make the left paw slap, mouse clicks make the right paw slap, and controller input brings both paws down with a visual controller overlay.
+BongoSteam is a **frameless, always-on-top avatar overlay** for Windows livestreams. Your bongocat avatar sits in the corner of your screen and reacts to every input - keyboard taps make the left paw slap, mouse clicks make the right paw slap, and controller input brings both paws down with a visual controller overlay.
 
 Capture it with **OBS window capture** and your viewers see a cute, reactive companion while you play.
 
@@ -36,7 +36,7 @@ Capture it with **OBS window capture** and your viewers see a cute, reactive com
 | 🖱️ **Mouse** | Click or scroll → right paw slap |
 | 🎮 **Joystick** | Any button press → both paws down + controller visual |
 | 🔄 **Mode Toggle** | `Ctrl+Shift+M` switches between KBM and Joystick modes |
-| 🎨 **Skins** | Folder-based skin system — drop in your own artwork |
+| 🎨 **Skins** | Folder-based skin system - drop in your own artwork |
 | 🖼️ **Frameless** | Always-on-top, transparent background, draggable window |
 | 💾 **Position Memory** | Window position persists across restarts |
 | 🫁 **Idle Animation** | Gentle breathing effect when no input is active |
